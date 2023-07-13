@@ -1,5 +1,6 @@
 # SnapMenu
 
+![SnapchatMenu](https://github.com/RedisMadani/SnapchatMenu/assets/136177376/29e70607-1586-4c74-abad-b2268d8d7f8e)
 
 ## Description
 SnapMenu is an iOS app that demonstrates a Snapchat-like menu interface. The app leverages the power of UIScrollView to create a seamless and interactive menu experience. By carefully configuring the contentSize and contentOffset properties of the UIScrollView, SnapMenu provides a straightforward approach to achieve the desired Snapchat-like menu effect.
